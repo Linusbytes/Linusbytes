@@ -5,7 +5,7 @@ University begins in August 2026, where I will be studying Mechanical Engineerin
 
 # 🤸‍♀️ What I am currently up to:
 - Entering my first year of university, motivated to learn and meet new people!
-- Keeping up with NVIDIA GTC Conferences 💻
+- Keeping up with NVIDIA GTC Conferences 💻 cause Jensen Huang is my idol
 
 # 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linus-cheng-ming-hong/) 
