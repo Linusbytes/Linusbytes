@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Linus Cheng👋</h1> 
+<h1 align="center">Hi, I'm Linus Cheng 👋</h1> 
 
 # 🤖 💻 About Me:
 University begins in August 2026, where I will be studying Mechanical Engineering at the National University of Singapore. I am excited about being a university student during this time when technologies are advancing more quickly than ever! 
